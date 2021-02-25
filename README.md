@@ -1,4 +1,5 @@
 # geo-quiz
+Vue+Vue-Router+Vuex实现的答题单页面应用
 
 ## Project setup
 ```
