@@ -1,13 +1,13 @@
 <template>
-  <div class="home">
-    <show showComponent = "home"></show>
+  <div class="score">
+    <show showComponent = "score"></show>
   </div>
 </template>
 
 <script>
 import show from '../components/show'
 export default {
-  name: 'home',
+  name: 'score',
   components: {
     show
   }
